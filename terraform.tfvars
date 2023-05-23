@@ -1,0 +1,5 @@
+region = ""
+key_name = ""
+instance_type = ""
+subnet_id = ""
+vpc_id = ""
